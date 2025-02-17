@@ -35,13 +35,13 @@ Backend Features:
 
 ## Technologies Used
 
--HTML
--Bootstrap
--Javascript
--Font Awesome
--Laravel
--Livewire
--MySQL
+- HTML
+- Bootstrap
+- Javascript
+- Font Awesome
+- Laravel
+- Livewire
+- MySQL
 
 ## Installation Guide
 
